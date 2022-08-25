@@ -1,0 +1,16 @@
+[1mdiff --git a/hello.c b/hello.c[m
+[1mindex 97535d4..88e6003 100644[m
+[1m--- a/hello.c[m
+[1m+++ b/hello.c[m
+[36m@@ -11,7 +11,9 @@[m
+ [m
+ int main(int argc, char **argv) {[m
+ [m
+[31m-  printf("Joshua Ewald\n");[m
+[32m+[m[32m  printf("*Joshua Ewald*\n");[m
+[32m+[m
+[32m+[m[32m  printf("Computer Engineering\n");[m
+ [m
+   return 0;[m
+ }[m
+\ No newline at end of file[m
