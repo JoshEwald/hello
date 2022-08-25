@@ -3,7 +3,7 @@
  *         joshuaewald@unomaha.edu
  * Date: 2022/08/24
  *
- * A simple hello world program in C
+ * This program states colaborators' names and majors.
  *
  */
 #include <stdlib.h>
